@@ -11,3 +11,7 @@ To change the location where the image is created, change the `pasteImage.path` 
 - `${currentFileDir}/images`: create an `images` directory next to the file and save the image there
 
 For more info check the [vscode-paste-image](https://github.com/mushanshitiancai/vscode-paste-image) extension page.
+
+![](../../attachments/2021-02-21-17-46-02.png)
+
+![](../../attachments/2021-02-21-17-46-21.png)

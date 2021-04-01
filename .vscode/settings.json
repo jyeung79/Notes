@@ -4,7 +4,7 @@
   "editor.overviewRulerBorder": false,
   "editor.lineHeight": 24,
   "[markdown]": {
-    "editor.quickSuggestions": true
+    "editor.quickSuggestions": false
   },
   "files.defaultLanguage": "markdown",
   "files.exclude": {
@@ -19,11 +19,19 @@
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
   "markdown.preview.breaks": true,
-  "pasteImage.path": "${projectRoot}/attachments",
+  "pasteImage.path": "${currentFileDir}/images",
   "pasteImage.showFilePathConfirmInputBox": true,
   "prettier.singleQuote": false,
   "spellright.notificationClass": "warning",
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
   "window.autoDetectColorScheme": true,
+  "spellright.language": [
+    "en"
+  ],
+  "spellright.documentTypes": [
+    "latex",
+    "plaintext"
+  ],
+  "editor.quickSuggestions": null,
 }
