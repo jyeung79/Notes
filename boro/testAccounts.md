@@ -69,3 +69,7 @@ Added SSN to account
 ## Recharge notification
 mensah.r01@mymail.sxu.edu
 12345678
+
+## Activate User
+chartresab@snhu.edu
+12345678

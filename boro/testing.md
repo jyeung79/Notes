@@ -234,3 +234,7 @@ AAA
 
 This is also related to the yellowbox errors
 [Lottie react native 2.6.1 issues](https://github.com/lottie-react-native/lottie-react-native/issues/502)
+
+## GraphQL Mock Provider
+
+[Testing Apollo Mutations](https://jkettmann.com/testing-apollo-how-to-test-if-a-mutation-was-called-with-mockedprovider)
