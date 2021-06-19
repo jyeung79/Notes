@@ -278,3 +278,12 @@ mutation CreateReviewForEpisode($ep: Episode!, $review: ReviewInput!) {
   }
 }
 ```
+
+## Ent ORM for Go
+
+https://www.reddit.com/r/golang/comments/m5m33m/tutorial_build_a_graphql_server_with_ent_and/
+## qgl-gen Go
+
+For user-defined types you can implement `Marshaler/unmarshaler` interfaces
+
+[Custom Scalesr Marshaler/Unmarshaller](https://gqlgen.com/reference/scalars/#custom-scalars-with-user-defined-types)
